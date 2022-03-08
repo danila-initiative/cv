@@ -8,7 +8,7 @@ _Middle Backed developer_ <br>
 ___
 ## Skills
 Experienced metall forming engineer, naturally converted into programmer.
-Key technologies stack: Python, REST API, Git, ML, C++, Docker, Postgresql, SQLite3, MongoDB, Telegram bots, Graphana, Kibana, Flask, Agile, Scrum, CAD systems
+Key technologies stack: Python, REST API, Git, ML, C++, Docker, Postgresql, SQLite3, Flask, MongoDB, Telegram bots, Graphana, Kibana, Agile, Scrum, CAD systems
 
 ___
 ## Languages
@@ -48,19 +48,20 @@ ___
 ## Education
 **Bauman Moscow State Technical University** <br>
 _Moscow, Russia (September 2008 - June 2014)_ <br>
-
 - Master’s Degree in Mechanical Engineering
 - Metall Forming Technology
 
 ___
-## Additional
+## Projects
 **Telegram bot for site parsing by specified parameters (2022)** <br>
 Bot sends search results every weekday: a message with statistics on results + excel table with results.
 
 Was implemented finite state machine to set the source data for search. 
 The possibility of paying for a subscription after the test period was implemented. For payments was using one of payment acceptance service supported by the Telegram (yookassa). 
 
-Base libraries: aiogram, beautifulsoup. DB: SQLite3. Most of code with type hinting. Development and deployment using Docker. Makefile to run frequent commands: tests, linters (flake8, mypy), formatter (black), rebuilding and entering into the container. For each test clean DB is created. DB with all actual migrations and filling with data for each test individually if necessary. Crons: site parsing + saving results in DB; saving results from DB into excel tables; messages formation and sending the results.
+Base libraries: **aiogram**, **beautifulsoup**. DB: **SQLite3**. Most of code with **type hinting**. Development and deployment using **Docker**. **Makefile** to run frequent commands: tests, linters (flake8, mypy), formatter (black), rebuilding and entering into the container. For each test clean DB is created. DB with all actual migrations and filling with data for each test individually if necessary. **Crons**: site parsing + saving results in DB; saving results from DB into excel tables; messages formation and sending the results.
+
+Bot was deployed on **DigitalOcean** and worked for a 3 weeks for 5 familiar users, but nowadays it has lost relevance. 
 
 
 **Pet projects for inner usage of QuantorForm (2020)** <br>
