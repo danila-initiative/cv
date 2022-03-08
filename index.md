@@ -1,6 +1,4 @@
 # Danila Avramenko
-<img src="user_pic.jpg" alt="drawing" width="200"/>
-
 _Middle Backed developer_ <br>
 
 [Email](mailto:kuavramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danila-avramenko-77912ab9/)
