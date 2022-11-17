@@ -1,7 +1,7 @@
 # Danila Avramenko
 _Middle Backed developer_ <br>
 
-[Email](mailto:kuavramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danila-avramenko-77912ab9/)
+[Email](mailto:danila.avramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danila-avramenko-77912ab9/)
 
 ___
 ## Skills
