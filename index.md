@@ -17,7 +17,7 @@ ___
 ## Experience
 
 **Backend Python developer @ [Yandex Eats](https://www.wikiwand.com/en/Yandex_Eda)** <br>
-_Moscow, Russia (July 2020 - Present)_ <br>
+_Moscow, Russia (July 2021 - Present)_ <br>
 - Development of microservices on Python, on C++ (if really necessary) and of course on yaml 😊
 - Writing tests by using pytest and gtest
 - API designs and endpoints specification (OpenAPI)
