@@ -7,11 +7,6 @@ Residence in Montenegro.
 Ready to relocate, ready for business trips.
 
 ___
-## Languages
-
-Russian (native), English <br>
-
-___
 ## Skills
 Experienced metal forming engineer, naturally converted into a programmer.  
 
@@ -24,11 +19,11 @@ ___
 
 **Backend Python developer @ [Yandex Eats](https://www.wikiwand.com/en/Yandex_Eda)** <br>
 _Moscow, Russia (July 2021 - Present)_ <br>
-- Development of microservices on Python, on C++ (if really necessary) and of course on yaml 😊
-- Writing tests by using pytest and gtest
-- API designs and endpoints specification (OpenAPI)
-- Creation of monitoring and alerting
-- Creation of an automated system for getting the answer on specific user support requests
+- Developing microservices using Python,  C++ (if really necessary 😊), and utilizing YAML for configuration.
+- Writing tests using pytest and gtest.
+- Designing APIs and specifying endpoints with OpenAPI.
+- Creating monitoring and alerting systems.
+- Developing an automated system to efficiently and accurately respond to specific user support requests.
 
 
 
@@ -109,3 +104,10 @@ Formulation of an idea -> formalization of a task -> data collection -> data pro
 Search algorithm was written taking into account the specifics of the name of the materials for various standards. This part mostly helped technical support department to resolve customer requests.
 
 <img src="service.jpg" alt="drawing" width="400"/> <br>
+
+<br>
+
+___
+## Languages
+
+Russian (native), English <br>
