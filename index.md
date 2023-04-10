@@ -1,7 +1,10 @@
 # Danila Avramenko  
-Male, 31 years, born on 4 July 1991  
+Male, 31 years old
 
-[Email](mailto:danila.avramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danila-avramenko-77912ab9/)  
++7 925 487 64 09 (Telegram, WhatsApp)  
+danila.avramenko@gmail.com   
+<a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a>  
+
 <br>
 Residence in Montenegro.   
 Ready to relocate, ready for business trips.
@@ -36,15 +39,14 @@ _Moscow, Russia (October 2020 - July 2021)_ <br>
 
 **Technical support Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
 _Moscow, Russia (October 2015 - October 2020)_ <br>
-- Finite element simulation of different metal forming technologies: Open die forging, Closed die forging, Ring rolling, Longitudinal rolling, Cross rolling, Rotary forging, Extrusion, Wheel rolling
-- Conducting training worldwide in the simulation of a metal-forming technology
-- Product development of new functionality; interface development
-- Development of automated testing software by using API (Python)
-- Documentation development
-- Various forging processes design and optimization
-- Preparing and conducting the presentation of the company's products and new versions of the software
-- Technical support of the customers with main focus on the ring rolling and rolling processes
-
+- Finite element simulation of different metal forming technologies: the Open die forging, the Closed die forging, the Ring rolling, the Longitudinal rolling, the Cross rolling, the Rotary forging, the Extrusion, and the Wheel rolling.
+- Conducting training worldwide in the simulation of specific metal-forming technologies.
+- Product development of new functionality and interface development.
+- Development of automated testing software using API (Python).
+- Development of documentation.
+- Design and optimization of various forging processes.
+- Preparing and conducting presentations of the company’s products and new software versions.
+- Providing technical support to customers with a focus on ring rolling and rolling processes."
 
 
 ___
@@ -53,6 +55,7 @@ ___
 _Moscow, Russia (September 2008 - June 2014)_ <br>
 - Master’s Degree in Mechanical Engineering
 - Metall Forming Technology
+
 
 ___
 ## Pet Projects
