@@ -14,6 +14,7 @@ Russian (native), English <br>
 ___
 ## Skills
 Experienced metal forming engineer, naturally converted into a programmer.  
+
 Key engineering skills: FEM simulation, Forging, Ring Rolling, Rolling, Technology design, Technology optimization, CAD systems, Technical support
 
 Key programming skills: Python, REST API, Git, ML, C++, Docker, Postgresql, SQLite3, Flask, MongoDB, Telegram bots, Graphana, Kibana, Agile, Scrum
@@ -27,6 +28,7 @@ _Moscow, Russia (July 2021 - Present)_ <br>
 - Writing tests by using pytest and gtest
 - API designs and endpoints specification (OpenAPI)
 - Creation of monitoring and alerting
+- Creation of an automated system for getting the answer on specific user support requests
 
 
 
