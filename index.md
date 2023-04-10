@@ -5,7 +5,7 @@ Male, 31 years old
 danila.avramenko@gmail.com   
 <a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a>  
 
-<br>
+
 Residence in Montenegro.   
 Ready to relocate, ready for business trips.
 
