@@ -1,0 +1,23 @@
+name: Generate PDF
+
+on:
+  push:
+    branches: [ main, forge_cv ]
+
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: html to pdf
+        uses: misaelnieto/web_to_pdf_action@master
+        with:
+          webPageURL: https://danila-initiative.github.io/cv/
+          outputFile: cv.pdf
+          usePuppeteer: true
+          useScreen: true
+          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+
+
