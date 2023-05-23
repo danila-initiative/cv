@@ -1,12 +1,21 @@
-# Danila Avramenko
-_Middle Backend developer_ <br>
+# Danila Avramenko  
+Male, 31 years old
 
-[Email](mailto:danila.avramenko@gmail.com) / [LinkedIn](https://www.linkedin.com/in/danila-avramenko-77912ab9/)
++7 925 487 64 09 (Telegram, WhatsApp)  
+danila.avramenko@gmail.com   
+<a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a> 
+
+
+Residence: Montenegro.   
+Ready to relocate, ready for business trips.
 
 ___
 ## Skills
-Experienced metal forming engineer, naturally converted into a programmer.
-Key technologies stack: Python, REST API, Git, ML, C++, Docker, Postgresql, SQLite3, Flask, MongoDB, Telegram bots, Graphana, Kibana, Agile, Scrum, CAD systems
+Experienced metal forming engineer, naturally converted into a programmer.  
+
+Key programming skills: Python, REST API, Telegram bots,  Docker, ElasticSearch, Postgresql, SQLite3, Flask, MongoDB, Git, C++, Graphana, Kibana, Agile, Scrum, ML, Code generation
+
+Key engineering skills: FEM simulation, Forging, Ring Rolling, Rolling, Technology design, Technology optimization, CAD systems, Technical support
 
 ___
 ## Languages
@@ -18,28 +27,32 @@ ___
 
 **Backend Python developer @ [Yandex Eats](https://www.wikiwand.com/en/Yandex_Eda)** <br>
 _Moscow, Russia (July 2021 - Present)_ <br>
-- Development of microservices on Python, on C++ (if really necessary) and of course on yaml 😊
-- Writing tests by using pytest and gtest
-- API designs and endpoints specification (OpenAPI)
-- Creation of monitorings and alerting
+- Developing microservices using `Python`,  `C++` (if really necessary 😊), and utilizing YAML for configuration.
+- Writing tests using `pytest` and `gtest`.
+- Designing APIs and specifying endpoints with OpenAPI.
+- Creating monitoring and alerting systems.
+- Developing an automated system to efficiently and accurately respond to specific user support requests.
 
 
 
 **Software Developer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
 _Moscow, Russia (October 2020 - July 2021)_ <br>
-- Development of the Ring rolling and Rolling modules (C++)
+- Development of the `Ring rolling` and `Rolling` modules (`C++`)
 - Elaboration of development's direction of Rolling and Ring rolling modules
 
 
 
-**Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
+
+**Technical support Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
 _Moscow, Russia (October 2015 - October 2020)_ <br>
-- Finite element simulation of different metal forming technologies
-- Conducting training worldwide in the simulation of a metal-forming technology
-- Product development of new functionality; interface development
-- Development of automated testing software by using API (Python)
-- Documentation development
-- Various forging processes design and optimization
+- Finite element simulation of different metal forming technologies: the Open die forging, the Closed die forging, the Ring rolling, the Longitudinal rolling, the Cross rolling, the Rotary forging, the Extrusion, and the Wheel rolling.
+- Conducting training worldwide in the simulation of specific metal-forming technologies.
+- Product development of new functionality and interface development.
+- Development of automated testing software using API (Python).
+- Development of documentation.
+- Design and optimization of various forging processes.
+- Preparing and conducting presentations of the company’s products and new software versions.
+- Providing technical support to customers with a focus on ring rolling and rolling processes.
 
 ___
 ## Education
@@ -50,55 +63,47 @@ _Moscow, Russia (September 2008 - June 2014)_ <br>
 
 ___
 ## Pet Projects
+
 **[2022] Finding memes by string. Telegram bot**  
-_On the fritz now_  
 
-This bot helped users to search images (memes) by entering keywords.  
-Stack:  
-`imagehash` - for images (memes) deduplication; hash type and hash size was selected experimentally;  
-`Tesseract` - for text recognition (multiple languages simultaneously);  
-`elasticsearch` - is a search engine and DB. DB contains image hashes, recognized and processed text
+This bot helped users to search for images (memes) by entering keywords. The stack included `imagehash` for images (memes) deduplication, with hash type and hash size selected experimentally, `Tesseract` for text recognition (multiple languages simultaneously), and `Elasticsearch`, a search engine and database that contains image hashes, recognized and processed text.
 
-MVP: telegram bot (hosted locally) and static DB (13 000 memes). The operability has been checked on my friends.
-
-I've decided then to change the project architecture; to make the bot work perfectly; to add automatic continuous enrichment of the memes DB. The project is on hold now =()
+For the minimum viable product, I created a Telegram bot hosted locally and a static database of 13,000 memes. I tested its functionality with my friends. However, I decided to change the project architecture in order to make the bot work perfectly and add automatic continuous enrichment of the memes database. The project is on hold now 🙂.
 
 
 <br>
 
 **[2022] Order readiness notification. Telegram bot**  
-_Works now_ <br>
+_Works now_
+The Bot for Bar Zionist in Moscow was developed to address the issue of people not knowing when to pick up their food from the counter in the food court system. The process involved clients placing their food order at the counter and returning several times until their food was ready. It was easy to launch this bot because the co-owner of the bar is my friend.
 
-Bot for bar Zionist (Moscow) was developed to cover the issue of ppl not knowing when to pick up the food from the counter (foodcourt system). The path was: clients order the food at the counter and after some time should come to pick it up. Normally clients could make this route several times till the food was ready. It was easy to launch this bot cause the co-owner of this bar is my friend.
+There are actually two bots - one for guests and one for chefs - that share the same database in a JSON file 🙂. This file contains orders and telegram IDs to send notifications. I chose to use a JSON file because the bot usage numbers are from 10 to 200 times a day.
 
-2 bots, actually: for guests and chefs. 2 bots share the same database: `JSON-file` 🙂 This file contains orders and telegram ids to send notifications. Why JSON-file - because it's simple and the bot usage number is from 10 to 100 times a day. 
-Guest sends the order number in the bot -> chef presses the button on a special keyboard with order numbers when it's ready -> guest gets a notification with the "bon appetit" in different languages.
+To use the bot, guests send their order number to the bot, and when the order is ready, the chef presses a button on a special keyboard with order numbers. The guest then receives a notification in different languages, wishing them "bon appetit".
 
-It's a straightforward and simple solution, really useful for me, my friends and other bar guests.  
+This is a straightforward and simple solution that is useful for me, my friends, and other bar guests.
 
 <br>
 
 **[2022] Site parsing by specified parameters. Telegram bot**   
-_Out of date_ <br>
 
-Bot sends search results every weekday: a message with statistics of results (number of the search results) + an excel table with actual results.
+The purpose of my pet project was to develop a bot that sends search results every weekday via a message containing statistics (number of search results) and an excel table with actual results.
 
-The finite state machine was implemented to set the source data for search. 
-The subscription option was implemented after the test period. One of the payment services supported by Telegram (yookassa) was used for subscription payments. 
+To set the source data for the search, was implemented a finite state machine, and after the test period, was added a subscription option using the Telegram-supported payment service, Yookassa.
 
-Base libraries: `aiogram`, `beautifulsoup`. DB: `SQLite3`. Most of the code with `type hinting`. Development and deployment using `Docker`. `Makefile` to run frequent commands: tests, linters (flake8, mypy), formatter (black), rebuilding and entering into the container. Clean DB is created for each test: DB with all actual migrations and filling with data for each test individually if necessary. `Crons`: site parsing + saving results in DB; saving results from DB into excel tables; messages formation and sending the results.
+Was used the `aiogram` and `beautifulsoup` libraries, and `SQLite3` were used for the database. Most of the code has type hinting. I developed and deployed the bot using `Docker`, the `Makefile` was used to run frequent commands like tests, linters (flake8, mypy), formatter (black).
 
-The bot was deployed on `DigitalOcean` and worked for 3 weeks for 5 familiar users, but nowadays it has lost relevance.  
+For each test, was created a clean DB with all actual migrations and filled with data if necessary. I also set up Crons for site parsing, saving results in DB, saving results from DB into excel tables, and forming messages to send the results.
+
+The bot was deployed on DigitalOcean and tested for three weeks with five familiar users. However, the bot lost relevance after that.
 
 <br>
 
 **[2020] Pet projects for inner usage of QuantorForm**  
-_Works now_
- <br>
-1. Service for mechanical properties (flow stress) of steel generation. Flow stress generates by steel chemical composition (an original approach to the problem).  
-Formulation of an idea -> formalization of a task -> data collection -> data processing -> training of a regression model (Catboost) -> development of a service on Flask (drawing graphs with a small amount of JS) -> result (excel tables with graphs). Two plants use models that were generated for them on a daily basis. 
+_Works now_  
+The technical support department has received many requests from customers searching for a material model for simulation. We spent a lot of time searching for the required material model (QForm does not have a search engine for materials). Therefore, I decided to create a service that would help us find the required material model by name or chemical composition. During the work, I got the idea to create a service that would generate a material model based on chemical composition (as I had attended many ML conferences during that period). Consequently, I created two services that are still used by the company:
+1. Service for mechanical properties (flow stress) of steel generation: This service generates flow stress curves of steel based on the chemical composition of the steel. The service was developed in several steps, including collecting and processing data, training a regression model, and creating a Flask-based service that can generate graphs and tables with data. Models of steel generated by this service are used by two plants daily.
 
-2. Search service for materials by name and chemical composition.
-Search algorithm was written taking into account the specifics of the name of the materials for various standards. This part mostly helped technical support department to resolve customer requests.
+2. Search service for materials by name and chemical composition: This search service helps people find the required material based on its name or chemical composition. The service has a special algorithm that considers the specific names of materials for different standards. This service has been particularly helpful to the technical support department in resolving customer requests.
 
 <img src="service.jpg" alt="drawing" width="400"/> <br>
