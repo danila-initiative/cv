@@ -1,6 +1,4 @@
 # Danila Avramenko  
-Male, 31 years old
-
 +7 925 487 64 09 (Telegram, WhatsApp)  
 danila.avramenko@gmail.com   
 <a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a> 
@@ -13,7 +11,7 @@ ___
 ## Skills
 Experienced metal forming engineer, naturally converted into a programmer.  
 
-Key programming skills: Python, REST API, Telegram bots,  Docker, ElasticSearch, Postgresql, SQLite3, Flask, MongoDB, Git, C++, Graphana, Kibana, Agile, Scrum, ML, Code generation
+Key programming skills: Python, REST API, Telegram bots, Docker, ElasticSearch, Postgresql, SQLite3, Git, C++, MongoDB,  Graphana, Kibana, pytest, Basic ML, Code generation, Flask, Django, Fast API
 
 Key engineering skills: FEM simulation, Forging, Ring Rolling, Rolling, Technology design, Technology optimization, CAD systems, Technical support
 
