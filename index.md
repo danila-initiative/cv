@@ -3,15 +3,15 @@
 danila.avramenko@gmail.com   
 <a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a> 
 
-
 Residence: Montenegro.   
 Ready to relocate, ready for business trips.
 
 ___
-## Skills
-Experienced metal forming engineer, naturally converted into a programmer.  
 
-Key programming skills: Python, REST API, Telegram bots, Docker, ElasticSearch, Postgresql, SQLite3, Git, C++, MongoDB,  Graphana, Kibana, pytest, Basic ML, Code generation, Flask, Django, Fast API
+## Skills
+Experienced metal forming engineer, naturally converted into a programmer.
+
+Key programming skills: Python, REST API, Telegram bots, Postgresql, Docker,  Git, GitHub Actions, ElasticSearch, SQLite3, C++, MongoDB, Basic ML, Pycharm, Jyputer, Pandas, Code generation, Flask, Django, Fast API; Graphana, Kibana, pytest, queues
 
 Key engineering skills: FEM simulation, Forging, Ring Rolling, Rolling, Technology design, Technology optimization, CAD systems, Technical support
 
@@ -24,25 +24,26 @@ ___
 ## Experience
 
 **Backend Python developer @ [Yandex Eats](https://www.wikiwand.com/en/Yandex_Eda)** <br>
-_Moscow, Russia (July 2021 - Present)_ <br>
+_(July 2021 - Present)_ <br>
+Initially food delivery company, main player on the market.
+
+- I maintained and developed the complex process of hiring couriers. I improved stability in the registration process, added a monitoring and alerting system, and integrated with external courier providers.
+- I led the project to enhance courier support. When couriers contacted technical support during an order, the technical support employees automatically had all the necessary information about the order to provide better assistance in the situation.
+- Currently, I am focused on optimizing the order flow and working on projects that aim to simplify the work of couriers.
 - Developing microservices using `Python`,  `C++` (if really necessary 😊), and utilizing YAML for configuration.
-- Writing tests using `pytest` and `gtest`.
 - Designing APIs and specifying endpoints with OpenAPI.
-- Creating monitoring and alerting systems.
-- Developing an automated system to efficiently and accurately respond to specific user support requests.
+- Writing tests using `pytest` and `gtest`.
 
-
+<br>
 
 **Software Developer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
-_Moscow, Russia (October 2020 - July 2021)_ <br>
+_(October 2020 - July 2021)_ <br>
 - Development of the `Ring rolling` and `Rolling` modules (`C++`)
 - Elaboration of development's direction of Rolling and Ring rolling modules
 
 
-
-
 **Technical support Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
-_Moscow, Russia (October 2015 - October 2020)_ <br>
+_(October 2015 - October 2020)_ <br>
 - Finite element simulation of different metal forming technologies: the Open die forging, the Closed die forging, the Ring rolling, the Longitudinal rolling, the Cross rolling, the Rotary forging, the Extrusion, and the Wheel rolling.
 - Conducting training worldwide in the simulation of specific metal-forming technologies.
 - Product development of new functionality and interface development.
@@ -55,7 +56,7 @@ _Moscow, Russia (October 2015 - October 2020)_ <br>
 ___
 ## Education
 **Bauman Moscow State Technical University** <br>
-_Moscow, Russia (September 2008 - June 2014)_ <br>
+_(September 2008 - June 2014)_ <br>
 - Master’s Degree in Mechanical Engineering
 - Metall Forming Technology
 
