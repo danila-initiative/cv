@@ -52,11 +52,15 @@ _(October 2015 - October 2020)_
 - Described and suggested improvements in `Rolling` and `Ring rolling` modules that were subsequently implemented: automatization of setting the initial parameters for simulation and special boundary conditions.
 - Developed documentation for the `Ring Rolling` module.
 
+<br>
+
 # Education
 ## Bauman Moscow State Technical University
 _(September 2008 - June 2014)_ 
 - Master’s Degree in Mechanical Engineering
 - Metall Forming Technology
+
+<br>
 
 # Pet Projects
 ## [2020] Pet projects for inner usage of QuantorForm
@@ -83,6 +87,8 @@ The Bot for Bar Zionist was developed to address the issue of people not knowing
 There are two bots - one for guests and one for chefs - that share the same database in a JSON file 🙂. This file contains orders and telegram IDs to send notifications. I chose to use a JSON file because the bot usage numbers are from 10 to 200 times a day.
 
 This is a straightforward and simple solution that is useful for me, my friends, and other bar guests.
+
+<br>
 
 # Languages
 Russian (native), English (upper intermediate)
