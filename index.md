@@ -1,106 +1,88 @@
-# Danila Avramenko  
-+7 925 487 64 09 (Telegram, WhatsApp)  
-danila.avramenko@gmail.com   
-<a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a> 
+# Dan Avramenko
+danila.avramenko@gmail.com
+<a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a>
 
-Residence: Montenegro.   
+Residence: Montenegro.
 Ready to relocate, ready for business trips.
-
-___
-
-## Skills
-Experienced metal forming engineer, naturally converted into a programmer.
-
-Key programming skills: Python, REST API, Telegram bots, Postgresql, Docker,  Git, GitHub Actions, ElasticSearch, SQLite3, C++, MongoDB, Basic ML, Pycharm, Jyputer, Pandas, Code generation, Flask, Django, Fast API; Graphana, Kibana, pytest, queues
-
-Key engineering skills: FEM simulation, Forging, Ring Rolling, Rolling, Technology design, Technology optimization, CAD systems, Technical support
-
-___
-## Languages
-
-Russian (native), English <br>
-
-___
-## Experience
-
-**Backend Python developer @ [Yandex Eats](https://www.wikiwand.com/en/Yandex_Eda)** <br>
-_(July 2021 - Present)_ <br>
-Initially food delivery company, main player on the market.
-
-- I maintained and developed the complex process of hiring couriers. I improved stability in the registration process, added a monitoring and alerting system, and integrated with external courier providers.
-- I led the project to enhance courier support. When couriers contacted technical support during an order, the technical support employees automatically had all the necessary information about the order to provide better assistance in the situation.
-- Currently, I am focused on optimizing the order flow and working on projects that aim to simplify the work of couriers.
-- Developing microservices using `Python`,  `C++` (if really necessary 😊), and utilizing YAML for configuration.
-- Designing APIs and specifying endpoints with OpenAPI.
-- Writing tests using `pytest` and `gtest`.
 
 <br>
 
-**Software Developer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
-_(October 2020 - July 2021)_ <br>
-- Development of the `Ring rolling` and `Rolling` modules (`C++`)
-- Elaboration of development's direction of Rolling and Ring rolling modules
+# Summary
+I am a backend developer with 3 years of experience in development and 6 years as a simulation engineer.
 
+My main languages are `Python` and `C++` (if really necessary 😊), and I specialize in web projects. I have worked in a small company (~30 people) and in large big tech (26k+ people). I realized, that I prefer small and mid-size companies, where I can see the result of my work, have a direct impact on the product and wider range of responsibilities.
 
-**Technical support Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/)** <br>
-_(October 2015 - October 2020)_ <br>
-- Finite element simulation of different metal forming technologies: the Open die forging, the Closed die forging, the Ring rolling, the Longitudinal rolling, the Cross rolling, the Rotary forging, the Extrusion, and the Wheel rolling.
-- Conducting training worldwide in the simulation of specific metal-forming technologies.
-- Product development of new functionality and interface development.
-- Development of automated testing software using API (Python).
-- Development of documentation.
-- Design and optimization of various forging processes.
-- Preparing and conducting presentations of the company’s products and new software versions.
-- Providing technical support to customers with a focus on ring rolling and rolling processes.
+I have a good communication skill and I think that good communication and collaboration is a key to successful project.
 
-___
-## Education
-**Bauman Moscow State Technical University** <br>
-_(September 2008 - June 2014)_ <br>
+I like to keep my projects as simple as possible at each step of development. I believe that all great products evolved from simple MVPs.
+
+<br>
+
+# Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<br>
+
+Other skills without cool badges: `pytest`, `gtest`, `CI/CD`, `REST API`, `OpenAPI`, `JSON`, `Copilot`, `Telegram bots`, `FEM simulation`, `CAD`, `Forging`, `Ring Rolling`, `Rolling`, `Technology design`, `Technology optimization`
+
+<br>
+
+# Experience
+
+## Backend Python developer @ [Yandex Eats](https://eats.yandex.com/?lang=en) 
+_(July 2021 - Present)_ 
+Yandex Eats - online food ordering and delivery platform launched by Yandex in 2018. 200k+ orders per day.
+- I maintained and developed the complex process of hiring couriers. I improved stability in the registration process, added a monitoring and alerting system. I added integration with external courier providers.
+- I led the project to enhance courier support. When couriers contacted technical support during an order, the technical support employees automatically had all the necessary information about the order to provide better assistance in the situation.
+- Currently, I am focused on optimizing the order flow and working on projects that aim to simplify the work of couriers.
+- Developing microservices using `Python`, `C++`, and utilizing YAML for configuration.
+
+## Software Developer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/) 
+_(October 2020 - July 2021)_ 
+QForm - engineering software used for simulation, analysis and optimization of metal forming processes.
+- Spearheaded the enhancement of the `Ring Rolling` and `Rolling` modules.
+- Formulated and refined the development trajectory for both Rolling and Ring Rolling modules.
+
+## Technical support Engineer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/) 
+_(October 2015 - October 2020)_ 
+- Conducted over 70 training worldwide in the simulation of specific metal-forming technologies.
+- Developed an automated testing system using API.
+- Prepared and conducted over 20 webinars on the company's products.
+- Made a simulation of the following processes: Open die forging, Closed die forging, Ring rolling, Longitudinal rolling, Cross rolling, Rotary forging, Extrusion, and Wheel rolling.
+- Described and suggested improvements in `Rolling` and `Ring rolling` modules that were subsequently implemented: automatization of setting the initial parameters for simulation and special boundary conditions.
+- Developed documentation for the `Ring Rolling` module.
+
+# Education
+## Bauman Moscow State Technical University
+_(September 2008 - June 2014)_ 
 - Master’s Degree in Mechanical Engineering
 - Metall Forming Technology
 
-___
-## Pet Projects
-
-**[2022] Finding memes by string. Telegram bot**  
-
-This bot helped users to search for images (memes) by entering keywords. The stack included `imagehash` for images (memes) deduplication, with hash type and hash size selected experimentally, `Tesseract` for text recognition (multiple languages simultaneously), and `Elasticsearch`, a search engine and database that contains image hashes, recognized and processed text.
-
-For the minimum viable product, I created a Telegram bot hosted locally and a static database of 13,000 memes. I tested its functionality with my friends. However, I decided to change the project architecture in order to make the bot work perfectly and add automatic continuous enrichment of the memes database. The project is on hold now 🙂.
-
-
-<br>
-
-**[2022] Order readiness notification. Telegram bot**  
+# Pet Projects
+## [2020] Pet projects for inner usage of QuantorForm
 _Works now_
-The Bot for Bar Zionist in Moscow was developed to address the issue of people not knowing when to pick up their food from the counter in the food court system. The process involved clients placing their food order at the counter and returning several times until their food was ready. It was easy to launch this bot because the co-owner of the bar is my friend.
+**Result of the project**: Saved **hundreds of hours** of work for the technical support department and improved the quality of the support provided to customers.
 
-There are actually two bots - one for guests and one for chefs - that share the same database in a JSON file 🙂. This file contains orders and telegram IDs to send notifications. I chose to use a JSON file because the bot usage numbers are from 10 to 200 times a day.
+The technical support department has received many requests from customers searching for a material model for simulation. We spent a lot of time searching for the required material model (QForm did not have a search engine for materials). Consequently, I created two services that are still used by the company:
+1. Service for **mechanical properties (flow stress) of steel generation**: This service generates flow stress curves of steel based on the chemical composition of the steel. The service was developed in several steps, including collecting and processing data, training a regression model, and creating a Flask-based service that can generate graphs and tables with data.
+2. Search service for materials by name and chemical composition.
 
-To use the bot, guests send their order number to the bot, and when the order is ready, the chef presses a button on a special keyboard with order numbers. The guest then receives a notification in different languages, wishing them "bon appetit".
+## [2023] Finding memes by string. Telegram bot
+
+_Works now_
+https://t.me/meme_initiative_bot
+
+This bot helped users to find memes by entering keywords. The stack included `imagehash` for images (memes) deduplication, with hash type and hash size selected experimentally, `Tesseract` for text recognition (multiple languages simultaneously), and `Elasticsearch`, a search engine and database that contains image hashes, recognized and processed text. Memes base contains 60k+ memes.
+
+## [2022] Order readiness notification. Telegram bot
+_Works now_
+**Result of the project**: Bot notified about readiness of 20k+ orders, saved 20k+ minutes of wasted waiting time for guests.
+
+The Bot for Bar Zionist was developed to address the issue of people not knowing when to pick up their food from the counter in the food court system. The process involved clients placing their food order at the counter and returning several times until their food was ready.
+
+There are two bots - one for guests and one for chefs - that share the same database in a JSON file 🙂. This file contains orders and telegram IDs to send notifications. I chose to use a JSON file because the bot usage numbers are from 10 to 200 times a day.
 
 This is a straightforward and simple solution that is useful for me, my friends, and other bar guests.
 
-<br>
-
-**[2022] Site parsing by specified parameters. Telegram bot**   
-
-The purpose of my pet project was to develop a bot that sends search results every weekday via a message containing statistics (number of search results) and an excel table with actual results.
-
-To set the source data for the search, was implemented a finite state machine, and after the test period, was added a subscription option using the Telegram-supported payment service, Yookassa.
-
-Was used the `aiogram` and `beautifulsoup` libraries, and `SQLite3` were used for the database. Most of the code has type hinting. I developed and deployed the bot using `Docker`, the `Makefile` was used to run frequent commands like tests, linters (flake8, mypy), formatter (black).
-
-For each test, was created a clean DB with all actual migrations and filled with data if necessary. I also set up Crons for site parsing, saving results in DB, saving results from DB into excel tables, and forming messages to send the results.
-
-The bot was deployed on DigitalOcean and tested for three weeks with five familiar users. However, the bot lost relevance after that.
-
-<br>
-
-**[2020] Pet projects for inner usage of QuantorForm**  
-_Works now_  
-The technical support department has received many requests from customers searching for a material model for simulation. We spent a lot of time searching for the required material model (QForm does not have a search engine for materials). Therefore, I decided to create a service that would help us find the required material model by name or chemical composition. During the work, I got the idea to create a service that would generate a material model based on chemical composition (as I had attended many ML conferences during that period). Consequently, I created two services that are still used by the company:
-1. Service for mechanical properties (flow stress) of steel generation: This service generates flow stress curves of steel based on the chemical composition of the steel. The service was developed in several steps, including collecting and processing data, training a regression model, and creating a Flask-based service that can generate graphs and tables with data. Models of steel generated by this service are used by two plants daily.
-
-2. Search service for materials by name and chemical composition: This search service helps people find the required material based on its name or chemical composition. The service has a special algorithm that considers the specific names of materials for different standards. This service has been particularly helpful to the technical support department in resolving customer requests.
+# Languages
+Russian (native), English (upper intermediate)
