@@ -1,4 +1,4 @@
-# Dan Avramenko
+# Danila Avramenko
 danila.avramenko@gmail.com
 <a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a>
 
@@ -10,7 +10,7 @@ Ready to relocate, ready for business trips.
 # Summary
 I am a backend developer with 3 years of experience in development and 6 years as a simulation engineer.
 
-My main languages are `Python` and `C++` (if really necessary 😊), and I specialize in web projects. I have worked in a small company (~30 people) and in large big tech (26k+ people). I realized, that I prefer small and mid-size companies, where I can see the result of my work, have a direct impact on the product and wider range of responsibilities.
+My main languages are `Python` and `C++`, and I specialize in web projects. I have worked in a small company (~30 people) and in large big tech (26k+ people). I realized, that I prefer small and mid-size companies, where I can see the result of my work, have a direct impact on the product and wider range of responsibilities.
 
 I have a good communication skill and I think that good communication and collaboration is a key to successful project.
 
@@ -64,7 +64,7 @@ _(September 2008 - June 2014)_
 
 # Pet Projects
 ## [2020] Pet projects for inner usage of QuantorForm
-_Works now_
+_Works now_  
 **Result of the project**: Saved **hundreds of hours** of work for the technical support department and improved the quality of the support provided to customers.
 
 The technical support department has received many requests from customers searching for a material model for simulation. We spent a lot of time searching for the required material model (QForm did not have a search engine for materials). Consequently, I created two services that are still used by the company:
@@ -73,13 +73,13 @@ The technical support department has received many requests from customers searc
 
 ## [2023] Finding memes by string. Telegram bot
 
-_Works now_
+_Works now_  
 https://t.me/meme_initiative_bot
 
 This bot helped users to find memes by entering keywords. The stack included `imagehash` for images (memes) deduplication, with hash type and hash size selected experimentally, `Tesseract` for text recognition (multiple languages simultaneously), and `Elasticsearch`, a search engine and database that contains image hashes, recognized and processed text. Memes base contains 60k+ memes.
 
 ## [2022] Order readiness notification. Telegram bot
-_Works now_
+_Works now_  
 **Result of the project**: Bot notified about readiness of 20k+ orders, saved 20k+ minutes of wasted waiting time for guests.
 
 The Bot for Bar Zionist was developed to address the issue of people not knowing when to pick up their food from the counter in the food court system. The process involved clients placing their food order at the counter and returning several times until their food was ready.
