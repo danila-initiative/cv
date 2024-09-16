@@ -2,7 +2,7 @@
 danila.avramenko@gmail.com
 <a href="https://www.linkedin.com/in/danila-avramenko-77912ab9/" target="_blank">LinkedIn</a>
 
-Residence: Montenegro.
+Residence: Spain, Valencia.
 Ready to relocate, ready for business trips.
 
 <br>
@@ -32,9 +32,9 @@ Other skills without cool badges: `pytest`, `gtest`, `CI/CD`, `REST API`, `OpenA
 ## Backend Python developer @ [Yandex Eats](https://eats.yandex.com/?lang=en) 
 _(July 2021 - Present)_ 
 Yandex Eats - online food ordering and delivery platform launched by Yandex in 2018. 200k+ orders per day.
-- I maintained and developed the complex process of hiring couriers. I improved stability in the registration process, added a monitoring and alerting system. I added integration with external courier providers.
+-  Designed a project on feedback forms. Form design and questions are flexibly customizable from configs. Various variants of form triggers are implemented.
+- I maintained and developed the complex process of hiring couriers. I improved stability in the registration process, added a monitoring and alerting system.
 - I led the project to enhance courier support. When couriers contacted technical support during an order, the technical support employees automatically had all the necessary information about the order to provide better assistance in the situation.
-- Currently, I am focused on optimizing the order flow and working on projects that aim to simplify the work of couriers.
 - Developing microservices using `Python`, `C++`, and utilizing YAML for configuration.
 
 ## Software Developer @ [QuantorForm](https://www.linkedin.com/company/quantor-form/about/) 
